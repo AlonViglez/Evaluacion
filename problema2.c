@@ -13,7 +13,7 @@ int recursiva(int i)
    int res=0;
    if(i>0)
      {
-   	return res=3*pow(5,i-1); 
+   	return res=5*pow(3,i-1); 
      }
    else
      {
